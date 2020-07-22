@@ -10,7 +10,6 @@ Here's a list of things I currently keep myself busy with:
 -  Maintaining several projects.
 -  Writing tech blog posts over at **[dev.to](https://dev.to/paniccsoftworks)**.
 -  Getting myself into front-end development. Trying out **[React](https://reactjs.org/)** and **[Bulma](https://bulma.io/)** in my spare time.
-
 <details>
   <summary>Some other facts about me.</summary>
   <br>
@@ -21,24 +20,16 @@ Here's a list of things I currently keep myself busy with:
   
   - I absolutely adore Jolteon, the best Pokemon.
   
-
   ![My github stats](https://github-readme-stats.vercel.app/api?username=panaris&show_icons=true)
   <br><br>
-  
 </details>
-
-<hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything.</i>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/christoforakis/" alt="Linkedin"><img src="https://raw.githubusercontent.com/panaris/panaris/master/linkedin-fill.svg"></a>
     <a href="https://www.facebook.com/xristoforakis/" alt="Facebook"><img src="https://raw.githubusercontent.com/panaris/panaris/master/facebook-fill .svg"></a>
     <a href="mailto:panagiotischristoforakis@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/panaris/panaris/master/mail-fill.svg"></a>
     <a href="https://paniccsoftworks.com" alt="My site"><img src="https://raw.githubusercontent.com/panaris/panaris/master/external-link-line.svg"></a>
   </p>
-
-  
 </p>
-
 <img src="https://raw.githubusercontent.com/panaris/panaris/master/bottom.svg" alt="bottom">
