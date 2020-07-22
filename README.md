@@ -24,7 +24,7 @@ Here's a list of things I currently keep myself busy with:
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=panaris&show_icons=true)
   <br><br>
-  [![HitCount](https://hits.dwyl.com/panaris/panaris.svg)](https://hits.dwyl.com/panaris/panaris)
+  
 </details>
 
 <hr>
