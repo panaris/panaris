@@ -9,11 +9,12 @@ Here's a list of things I currently keep myself busy with:
 -  Working as a CEO over at Panicc Softworks.
 -  Maintaining several projects.
 -  Writing tech blog posts over at **[dev.to](https://dev.to/paniccsoftworks)**.
--  Getting myself into front-end development. Trying out [React](https://reactjs.org/) and [Bulma](https://bulma.io/) in my spare time.
+-  Getting myself into front-end development. Trying out **[React](https://reactjs.org/)** and **[Bulma](https://bulma.io/)** in my spare time.
 
 <details>
   <summary>Some other facts about me.</summary>
   <br>
+  
   - I post random photos and jokes at **[Facebook](https://www.facebook.com/xristoforakis/)**. (Follow me!)
   
   - My go to jam when coding: Hard Rock and Heavy Metal. Non-stop. 
@@ -32,7 +33,7 @@ Here's a list of things I currently keep myself busy with:
 
   <p align="center">
     <a href="https://www.linkedin.com/in/christoforakis/" alt="Linkedin"><img src="https://raw.githubusercontent.com/panaris/panaris/master/linkedin-fill.svg"></a>
-    <a href="https://www.facebook.com/xristoforakis/" alt="Facebook"><img src="https://raw.githubusercontent.com/panaris/panaris/master/facebook-fill.svg"></a>
+    <a href="https://www.facebook.com/xristoforakis/" alt="Facebook"><img src="https://raw.githubusercontent.com/panaris/panaris/master/facebook-fill .svg"></a>
     <a href="mailto:panagiotischristoforakis@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/panaris/panaris/master/mail-fill.svg"></a>
     <a href="https://paniccsoftworks.com" alt="My site"><img src="https://raw.githubusercontent.com/panaris/panaris/master/external-link-line.svg"></a>
   </p>
